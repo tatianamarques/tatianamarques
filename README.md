@@ -16,8 +16,19 @@
     <img src="https://img.shields.io/badge/Site-ff69b4?style=for-the-badge&logo=wordpress&logoColor=white" alt="Site Badge"/>
   </a>
 </div>
+<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/wz0jHradrBa6qKhRCT/giphy.gif" width="600" height="300"/>
+</div>
 
+---
 
+### :woman_technologist: About Me :
+
+- 🔭 I’m currently working on my carrier as a full stack developer.
+- 🌱 I’m currently learning everything I can to become a great developer: JavaScript, Java, Phyton, AWS, Databases, Agile Methodologies, etc.
+
+-->
 
 <!--
 **tatianamarques/tatianamarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
