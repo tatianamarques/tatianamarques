@@ -26,7 +26,7 @@
 ### :woman_technologist: About Me :
 
 - 🔭 I’m currently working on my carrier as a full stack developer.
-- 🌱 I’m currently learning everything I can to become a great developer: JavaScript, Java, Phyton, AWS, Databases, Agile Methodologies, etc.
+- 🌱 I’m currently learning everything I can to become a great developer: JavaScript, Java, Python, AWS, Databases, Agile Methodologies, etc.
 
 ---
 
